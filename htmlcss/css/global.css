@@ -1,0 +1,47 @@
+.logo {
+    height: 40px;
+}
+
+body {
+    font-family: Calibri, sans-serif;
+}
+
+h2 {
+    color: #428000
+;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+strong {
+    color: #428000
+;
+    font-size: 17px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.alert{
+    color: white;
+    background-color: #428000
+;
+    display: inline-block;
+    position: fixed;
+    left: 50%;
+    top: 30px;
+    transform: translate(-50%, -50%);
+    border-radius: 8px;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+.alert p{
+    margin: 8px 20px 8px 20px;
+}
+
+.weak{
+    margin: 0 0 0 0;
+    font-style: italic;
+    font-size: 14px;
+}

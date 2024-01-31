@@ -1,0 +1,21 @@
+.Projects ul{
+    padding-left: 30px;
+}
+
+a:link {
+    color: #3f7900;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #3f7900;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: transparent;
+    text-decoration: underline;
+}
+

@@ -1,0 +1,30 @@
+.Experience{
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.ExperienceExample {
+    word-spacing: 2px;
+    margin-bottom: 10px;
+}
+.ExperienceCompany{
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    align-items: center;
+    word-spacing: 2px;
+}
+.ExperienceTitle{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 2px;
+}
+.ExperienceDescription {
+    padding-left: 8px;
+}
+
+
+.ExperienceExample p{
+    margin: 0 0 0 0;
+}

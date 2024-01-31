@@ -1,0 +1,40 @@
+header h1 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: #428000
+;
+    border: 8px double white;
+    border-bottom-color: #428000
+;
+}
+
+header p {
+    margin-top: 10px;
+    color: #555;
+    text-align: center;
+    font-size: 10px;
+
+}
+
+.social {
+    display: inline-block;
+    position: fixed;
+    right: 10px;
+}
+
+.social a {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 10px;
+    text-decoration: none;
+    color: #428000
+;
+}
+
+footer {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 50px;
+    color: #888;
+}
